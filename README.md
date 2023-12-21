@@ -39,7 +39,7 @@ npm run server
 npm start
 ```
 ## Contributors
-- [Mahesh Melapakula](https://github.com/Maheshmelapakula)
-- [Poorvi Singh Thakur](https://github.com/Poorvi0807)
-- [Ritesh Maurya](https://github.com/riteshmaurya089)
-- [MoinO2](https://github.com/moinO2)
+- [Vipul Girhe](https://github.com/heyvipul)
+- [Abhishek Tiwari](https://github.com/DevWebAbhi)
+- [Vikas Chaturvedi](https://github.com/Vikaschaturvedi167)
+- [Jageshwar2000](https://github.com/Jageshwar2000)
