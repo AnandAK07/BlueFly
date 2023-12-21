@@ -3,35 +3,43 @@ About BlueFly
 
 In this project we have tried to make a clone of BlueFly Ecommerce Webiste. 
 
-# Technology Stack Used
-HTML5 
+## Table of Contents
 
-CSS
+- [Overview](#overview)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+- [Contributors](#contributors)
 
-JavaScript (LocalStorage, DOM)
+## Overview
 
-Bootstrap
+Provide a brief introduction to your project. What does it do? Why did you build it? Mention any key features or functionality.
 
-# Deployment link
-https://647cc4c365687c4e3c6b2b20--chimerical-madeleine-52c26c.netlify.app/
+## Tech Stack
+- HTML
+- CSS
+- Firebase (for Authentication)
 
-# Authors
-Vipul Girhe 
+## Getting Started
 
-https://github.com/heyvipul
+These instructions will help you set up the project on your local machine for development and testing purposes.
 
-Vikas Chaturvedi 
- 
-https://github.com/Vikaschaturvedi167
+1. **Clone the repository:**
 
-Anand Kumar 
+   ```bash
+   git clone https://github.com/AnandAK07/BlueFly.git
+   cd SyLoan-Finance
 
-https://github.com/AnandAK07
+   ## Installation
 
-Abhishek Tiwari 
+2. **Install the SyLoan-Finance and devDependencies and start the server.**
 
-https://github.com/DevWebAbhi
-
-Jageshwar 
-
-https://github.com/Jageshwar2000
+```sh
+npm i
+npm run server
+npm start
+```
+## Contributors
+- [Mahesh Melapakula](https://github.com/Maheshmelapakula)
+- [Poorvi Singh Thakur](https://github.com/Poorvi0807)
+- [Ritesh Maurya](https://github.com/riteshmaurya089)
+- [MoinO2](https://github.com/moinO2)
